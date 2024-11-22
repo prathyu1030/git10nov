@@ -1,2 +1,1 @@
-delhi
-uttar pradesh
+practicing
