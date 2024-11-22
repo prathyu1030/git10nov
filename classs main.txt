@@ -1,0 +1,6 @@
+classs main
+public static void main{string args[]}
+{
+importhdffjd
+dfjhogldf
+fdkjhik}
